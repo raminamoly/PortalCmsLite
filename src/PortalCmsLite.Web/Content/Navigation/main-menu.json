@@ -1,0 +1,22 @@
+[
+  {
+    "title": "خانه",
+    "url": "/"
+  },
+  {
+    "title": "مقالات",
+    "url": "/articles"
+  },
+  {
+    "title": "درباره ما",
+    "url": "/pages/about"
+  },
+  {
+    "title": "درخواست دمو",
+    "url": "/demo"
+  },
+  {
+    "title": "تماس با ما",
+    "url": "/contact"
+  }
+]
